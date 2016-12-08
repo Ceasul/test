@@ -1,0 +1,1 @@
+curl -v --header "X-TOKEN: <EFDBCDPGONBOOKKHAEOJKEXK66M6HRX2>" https://calendly.com/api/v1/echo
